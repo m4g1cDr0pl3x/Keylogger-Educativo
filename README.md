@@ -1,5 +1,5 @@
 # **Keylogger Educativo**
-[![what-is-a-keylogger.jpg](https://i.postimg.cc/y8kqSG4C/what-is-a-keylogger.jpg)](https://postimg.cc/gxFtCN2g)
+[![keylogger.jpg](https://i.postimg.cc/y8kqSG4C/what-is-a-keylogger.jpg)](https://postimg.cc/gxFtCN2g)
 Este repositorio tiene como propósito educativo mostrar cómo funciona un keylogger y cómo protegerse de posibles ataques. **El código no debe ser usado de manera malintencionada**. Es esencial realizar este tipo de experimentos solo en entornos controlados y con fines éticos, como pruebas de seguridad en un entorno de laboratorio personal.
 
 ## **Índice**

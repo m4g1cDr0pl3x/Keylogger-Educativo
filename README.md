@@ -45,7 +45,6 @@ El keylogger se ejecuta en segundo plano sin mostrar ventanas ni advertencias, l
 2.Instalar las dependencias: Si no tienes las dependencias necesarias, puedes instalarlas con pip:
 
 ```bash
-Copia el codi
 pip install pynput
 ```
 3. Configuración de correo (si deseas enviar los datos por correo electrónico):

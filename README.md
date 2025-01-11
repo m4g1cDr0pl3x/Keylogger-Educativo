@@ -58,3 +58,6 @@ Para ejecutar el keylogger, simplemente ejecuta el script Python. Recuerda que d
 python keylogger.py
 ```
 Una vez ejecutado, el keylogger comenzará a capturar las teclas presionadas y enviará los datos según la configuración (por correo o subiendo a la nube).
+
+### **Licencia**
+Este proyecto se proporciona solo con fines educativos. No está destinado a ser utilizado para dañar, espiar ni violar la privacidad de los usuarios. El código está bajo licencia MIT, pero ten en cuenta que el uso malintencionado de este código puede estar en contra de la ley.
